@@ -2,166 +2,247 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap-0.9">
   <url>
     <loc>https://cape-coral.geotechnicalengineering.biz/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://cape-coral.geotechnicalengineering.biz/proctor-tests</loc>
+    <loc>https://cape-coral.geotechnicalengineering.biz/anchors/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://cape-coral.geotechnicalengineering.biz/masw</loc>
+    <loc>https://cape-coral.geotechnicalengineering.biz/atterberg-limits/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://cape-coral.geotechnicalengineering.biz/vibrocompaction</loc>
+    <loc>https://cape-coral.geotechnicalengineering.biz/cbr-road/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://cape-coral.geotechnicalengineering.biz/seismic-refraction</loc>
+    <loc>https://cape-coral.geotechnicalengineering.biz/cpt-test/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://cape-coral.geotechnicalengineering.biz/slope-stability</loc>
+    <loc>https://cape-coral.geotechnicalengineering.biz/deep-excavations/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://cape-coral.geotechnicalengineering.biz/stone-columns</loc>
+    <loc>https://cape-coral.geotechnicalengineering.biz/excavation-monitoring/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://cape-coral.geotechnicalengineering.biz/deep-excavations</loc>
+    <loc>https://cape-coral.geotechnicalengineering.biz/excavations/</loc>
+    <lastmod>2026-06-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://cape-coral.geotechnicalengineering.biz/grouting</loc>
+    <loc>https://cape-coral.geotechnicalengineering.biz/flexible-pavement/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://cape-coral.geotechnicalengineering.biz/sand-cone-density</loc>
+    <loc>https://cape-coral.geotechnicalengineering.biz/footings/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://cape-coral.geotechnicalengineering.biz/in-situ-permeability</loc>
+    <loc>https://cape-coral.geotechnicalengineering.biz/foundations/</loc>
+    <lastmod>2026-06-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://cape-coral.geotechnicalengineering.biz/grain-size</loc>
+    <loc>https://cape-coral.geotechnicalengineering.biz/grain-size/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://cape-coral.geotechnicalengineering.biz/anchors</loc>
+    <loc>https://cape-coral.geotechnicalengineering.biz/ground-improvement/</loc>
+    <lastmod>2026-06-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://cape-coral.geotechnicalengineering.biz/liquefaction</loc>
+    <loc>https://cape-coral.geotechnicalengineering.biz/grouting/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://cape-coral.geotechnicalengineering.biz/seismic-microzonation</loc>
+    <loc>https://cape-coral.geotechnicalengineering.biz/in-situ-permeability/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://cape-coral.geotechnicalengineering.biz/spt-drilling</loc>
+    <loc>https://cape-coral.geotechnicalengineering.biz/investigation/</loc>
+    <lastmod>2026-06-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://cape-coral.geotechnicalengineering.biz/piles</loc>
+    <loc>https://cape-coral.geotechnicalengineering.biz/lab-in-situ/</loc>
+    <lastmod>2026-06-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://cape-coral.geotechnicalengineering.biz/cbr-road</loc>
+    <loc>https://cape-coral.geotechnicalengineering.biz/laboratory/</loc>
+    <lastmod>2026-06-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://cape-coral.geotechnicalengineering.biz/mat-foundations</loc>
+    <loc>https://cape-coral.geotechnicalengineering.biz/liquefaction/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://cape-coral.geotechnicalengineering.biz/flexible-pavement</loc>
+    <loc>https://cape-coral.geotechnicalengineering.biz/masw/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://cape-coral.geotechnicalengineering.biz/test-pits</loc>
+    <loc>https://cape-coral.geotechnicalengineering.biz/mat-foundations/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://cape-coral.geotechnicalengineering.biz/contact</loc>
+    <loc>https://cape-coral.geotechnicalengineering.biz/piles/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://cape-coral.geotechnicalengineering.biz/atterberg-limits</loc>
+    <loc>https://cape-coral.geotechnicalengineering.biz/proctor-tests/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://cape-coral.geotechnicalengineering.biz/cpt-test</loc>
+    <loc>https://cape-coral.geotechnicalengineering.biz/resistivity/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://cape-coral.geotechnicalengineering.biz/triaxial</loc>
+    <loc>https://cape-coral.geotechnicalengineering.biz/retaining-walls/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://cape-coral.geotechnicalengineering.biz/rigid-pavement</loc>
+    <loc>https://cape-coral.geotechnicalengineering.biz/rigid-pavement/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://cape-coral.geotechnicalengineering.biz/seismic-isolation</loc>
+    <loc>https://cape-coral.geotechnicalengineering.biz/road-geotechnics/</loc>
+    <lastmod>2026-06-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://cape-coral.geotechnicalengineering.biz/soft-ground-tunnels</loc>
+    <loc>https://cape-coral.geotechnicalengineering.biz/sand-cone-density/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://cape-coral.geotechnicalengineering.biz/resistivity</loc>
+    <loc>https://cape-coral.geotechnicalengineering.biz/seismic/</loc>
+    <lastmod>2026-06-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://cape-coral.geotechnicalengineering.biz/footings</loc>
+    <loc>https://cape-coral.geotechnicalengineering.biz/seismic-isolation/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://cape-coral.geotechnicalengineering.biz/excavation-monitoring</loc>
+    <loc>https://cape-coral.geotechnicalengineering.biz/seismic-microzonation/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://cape-coral.geotechnicalengineering.biz/retaining-walls</loc>
+    <loc>https://cape-coral.geotechnicalengineering.biz/seismic-refraction/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://cape-coral.geotechnicalengineering.biz/privacy</loc>
+    <loc>https://cape-coral.geotechnicalengineering.biz/sitemap/</loc>
+    <lastmod>2026-06-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://cape-coral.geotechnicalengineering.biz/slope-stability/</loc>
+    <lastmod>2026-05-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://cape-coral.geotechnicalengineering.biz/slopes/</loc>
+    <lastmod>2026-06-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://cape-coral.geotechnicalengineering.biz/soft-ground-tunnels/</loc>
+    <lastmod>2026-05-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://cape-coral.geotechnicalengineering.biz/spt-drilling/</loc>
+    <lastmod>2026-05-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://cape-coral.geotechnicalengineering.biz/stone-columns/</loc>
+    <lastmod>2026-05-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://cape-coral.geotechnicalengineering.biz/test-pits/</loc>
+    <lastmod>2026-05-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://cape-coral.geotechnicalengineering.biz/triaxial/</loc>
+    <lastmod>2026-05-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://cape-coral.geotechnicalengineering.biz/vibrocompaction/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
